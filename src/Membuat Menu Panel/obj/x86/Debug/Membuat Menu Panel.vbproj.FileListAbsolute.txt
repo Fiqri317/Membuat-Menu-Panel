@@ -1,0 +1,36 @@
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\Membuat Menu Panel\obj\x86\Debug\Membuat_Menu_Panel.Login.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\Membuat Menu Panel\obj\x86\Debug\Membuat_Menu_Panel.Resources.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\Membuat Menu Panel\obj\x86\Debug\Membuat Menu Panel.vbproj.GenerateResource.Cache
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\Membuat Menu Panel\bin\Debug\Membuat Menu Panel.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\Membuat Menu Panel\bin\Debug\Membuat Menu Panel.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\Membuat Menu Panel\bin\Debug\Membuat Menu Panel.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\Membuat Menu Panel\obj\x86\Debug\Membuat Menu Panel.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\Membuat Menu Panel\obj\x86\Debug\Membuat Menu Panel.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\Membuat Menu Panel\obj\x86\Debug\Membuat Menu Panel.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\Membuat Menu Panel\obj\x86\Debug\Membuat_Menu_Panel.Menu.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\Membuat Menu Panel\obj\x86\Debug\Membuat_Menu_Panel.Data_Siswa.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\obj\x86\Debug\Membuat Menu Panel.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\obj\x86\Debug\Membuat Menu Panel.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\obj\x86\Debug\Membuat Menu Panel.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Membuat Menu Panel.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Membuat Menu Panel.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Membuat Menu Panel.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Aplikasi Apotek.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Aplikasi Apotek.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Aplikasi Apotek.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\obj\x86\Debug\Membuat Menu Panel.vbprojResolveAssemblyReference.cache
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\obj\x86\Debug\Membuat_Menu_Panel.Data_Siswa.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\obj\x86\Debug\Membuat_Menu_Panel.Login.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\obj\x86\Debug\Membuat_Menu_Panel.Menu.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\obj\x86\Debug\Membuat_Menu_Panel.Resources.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\obj\x86\Debug\Membuat Menu Panel.vbproj.GenerateResource.Cache
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\obj\x86\Debug\Membuat_Menu_Panel.Data.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Aplikasi Database Mahasiswa.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Aplikasi Database Mahasiswa.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Aplikasi Database Mahasiswa.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Aplikasi Hotel.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Aplikasi Langganan Anime.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Aplikasi Hotel.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Aplikasi Hotel.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Aplikasi Langganan Anime.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Membuat Menu Panel\src\Membuat Menu Panel\bin\Debug\Aplikasi Langganan Anime.xml
